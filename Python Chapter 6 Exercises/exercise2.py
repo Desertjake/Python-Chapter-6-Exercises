@@ -1,0 +1,1 @@
+#[:] selects the entirety of the string inside the statement
